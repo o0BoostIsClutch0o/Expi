@@ -38,10 +38,12 @@ Purely for experimentation
       top: 340px;
   }
   h1 {
-      position: absolute;
+      position: fixed;
       z-index: 4;
       font-style: italic;
       font-weight: bold;
+      font-color: gold;
+      font-size: 30px;
   }
  
   </style>
@@ -52,15 +54,15 @@ Purely for experimentation
   <h3></h3><img id="picone" src="https://c1.neweggimages.com/ProductImage/83-360-015-08.jpg" alt="picture of desktopPC" >
   <img src="https://www.kasandbox.org/programming-images/avatars/marcimus-red.png" alt= "happy creature" id ="pictwo">
   <img src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/fields-of-gold-sunset-terri-waters.jpg" alt="field of wheat" id="picthr">
-  <p id="paraOne">This begins the text
-  And here
-  And here
-  And here 
+  <p id="paraOne">This begins the text <br>
+  And here <br>
+  And here <br>
+  And here  <br>
   and here too</p>
-  <p id="paratoo">This continues the text
-  And here
-  And here
-  And here 
+  <p id="paratoo">This continues the text <br>
+  And here <br>
+  And here <br>
+  And here  <br>
   and here too</p>
   </body>
 </html>
