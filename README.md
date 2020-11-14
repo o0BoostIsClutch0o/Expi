@@ -9,31 +9,58 @@ Purely for experimentation
   <style>
     body {
       background: rgb(210, 4, 20);
-      font-family: sans-serif, helvetica;
+      font-family: fantasy, helvetica;
       font-weight: bold;
       font-style: italic;
       font-size: 10px;
       font-color: rgb(0, 0, 0);
   #picone {
+      position: absolute;
       width: "200px"
       z-index: 1;
   }
   #pictwo {
+      position: absolute;
       width: "200px"
        z-index: 2; 
   }
   #picthr {
+      position: absolute;
       width: "500px"
       z-index: 3;
   }
+  #paraOne {
+      position: absolute;
+      top: 290px;
+  }
+  #paratoo {
+      position: absolute;
+      top: 340px;
+  }
+  h1 {
+      position: absolute;
+      z-index: 4;
+      font-style: italic;
+      font-weight: bold;
+  }
+ 
   </style>
  </head>
   <body>
-  <h1>DANCE PARTY</h1>
+  <h1><em>DANCE PARTY</em></h1>
   <h2>Computer</h2>
   <h3></h3><img id="picone" src="https://c1.neweggimages.com/ProductImage/83-360-015-08.jpg" alt="picture of desktopPC" >
   <img src="https://www.kasandbox.org/programming-images/avatars/marcimus-red.png" alt= "happy creature" id ="pictwo">
   <img src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/fields-of-gold-sunset-terri-waters.jpg" alt="field of wheat" id="picthr">
-  <p></p>
+  <p id="paraOne">This begins the text
+  And here
+  And here
+  And here 
+  and here too</p>
+  <p id="paratoo">This continues the text
+  And here
+  And here
+  And here 
+  and here too</p>
   </body>
 </html>
