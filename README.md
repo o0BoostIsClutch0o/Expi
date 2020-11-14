@@ -18,17 +18,17 @@ Purely for experimentation
   #picone {
       position: absolute;
       width: "200px"
-      z-index: 1;
+      z-index: 2;
   }
   #pictwo {
       position: absolute;
       width: "200px"
-       z-index: 2; 
+       z-index: 3; 
   }
   #picthr {
       position: absolute;
       width: "500px"
-      z-index: 3;
+      z-index: 1;
   }
   #paraOne {
       position: absolute;
@@ -36,7 +36,7 @@ Purely for experimentation
   }
   #paratoo {
       position: absolute;
-      top: 1340px;
+      top: 1540px;
   }
   h1 {
       position: fixed;
