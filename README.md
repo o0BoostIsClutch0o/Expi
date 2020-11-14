@@ -32,11 +32,11 @@ Purely for experimentation
   }
   #paraOne {
       position: absolute;
-      top: 290px;
+      top: 1290px;
   }
   #paratoo {
       position: absolute;
-      top: 340px;
+      top: 1340px;
   }
   h1 {
       position: fixed;
