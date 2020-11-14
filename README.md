@@ -14,6 +14,7 @@ Purely for experimentation
       font-style: italic;
       font-size: 10px;
       font-color: rgb(0, 0, 0);
+  }
   #picone {
       position: absolute;
       width: "200px"
