@@ -7,13 +7,14 @@ Purely for experimentation
   <title>This is an Experimental DANCE PARTY webpage</title>
   
   <style>
-    body
+    body {
       background: rgb(210, 4, 20);
       font-family: sans-serif, helvetica;
       font-weight: bold;
       font-style: italic;
       font-size: 10px;
       font-color: rgb(0, 0, 0);
+  }
   </style>
  </head>
   <body>
