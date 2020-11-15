@@ -34,7 +34,7 @@ Purely for experimentation
       top: 1540px;
   }
   #pictime {
-       width:"20px";
+       width: 20px;
       z-index: 1;
  }
   h1 {
