@@ -16,12 +16,10 @@ Purely for experimentation
       font-color: rgb(0, 0, 0);
   }
   #picone {
-      position: absolute;
       width: "200px"
       z-index: 4;
   }
   #pictwo {
-      position: absolute;
       width: "200px"
        z-index: 3; 
   }
@@ -40,7 +38,7 @@ Purely for experimentation
   }
   #pictime {
       position: absolute;
-       width:"50px";
+       width:"20px";
       z-index: 1;
  }
   h1 {
