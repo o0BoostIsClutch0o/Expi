@@ -18,17 +18,17 @@ Purely for experimentation
   #picone {
       position: absolute;
       width: "200px"
-      z-index: 2;
+      z-index: 1;
   }
   #pictwo {
       position: absolute;
       width: "200px"
-       z-index: 3; 
+       z-index: 2; 
   }
   #picthr {
       position: absolute;
       width: "500px"
-      z-index: 1;
+      z-index: 3;
   }
   #paraOne {
       position: absolute;
@@ -50,6 +50,11 @@ Purely for experimentation
   </style>
  </head>
   <body>
+  <ul>
+    <li>List item one</li>
+    <li>List item two</li>
+    <li>List item number three</li>
+  </ul>
   <h1><em>DANCE PARTY</em></h1>
   <h2>Computer</h2>
   <h3></h3><img id="picone" src="https://c1.neweggimages.com/ProductImage/83-360-015-08.jpg" alt="picture of desktopPC" >
