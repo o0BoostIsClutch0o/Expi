@@ -45,7 +45,7 @@ Purely for experimentation
  }
   h1 {
       position: fixed;
-      z-index: 4;
+      z-index: 5;
       font-style: italic;
       font-weight: bold;
       font-color: #e9e9e9;
