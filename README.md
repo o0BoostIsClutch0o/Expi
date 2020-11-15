@@ -38,6 +38,10 @@ Purely for experimentation
       position: absolute;
       top: 1540px;
   }
+  #pictime {
+      position: absolute;
+       width:"210px";
+ }
   h1 {
       position: fixed;
       z-index: 4;
@@ -45,6 +49,7 @@ Purely for experimentation
       font-weight: bold;
       font-color: #e9e9e9;
       font-size: 70px;
+      margin-left: -20px;
   }
  
   </style>
@@ -67,6 +72,7 @@ Purely for experimentation
   And here <br>
   And here  <br>
   and here too</p>
+  <p id="pictime"><img src="https://img.favpng.com/8/12/17/yellow-star-icon-sign-symbol-png-favpng-k7wvBgxxf4tJ3rYusfSmASixU.jpg" alt="picture of star">
   <p id="paratoo">This continues the text <br>
   And here <br>
   And here <br>
