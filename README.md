@@ -18,17 +18,17 @@ Purely for experimentation
   #picone {
       position: absolute;
       width: "200px"
-      z-index: 1;
+      z-index: 4;
   }
   #pictwo {
       position: absolute;
       width: "200px"
-       z-index: 2; 
+       z-index: 3; 
   }
   #picthr {
       position: absolute;
       width: "500px"
-      z-index: 3;
+      z-index: 2;
   }
   #paraOne {
       position: absolute;
@@ -40,8 +40,8 @@ Purely for experimentation
   }
   #pictime {
       position: absolute;
-       width:"100px";
-      z-index: 4;
+       width:"50px";
+      z-index: 1;
  }
   h1 {
       position: fixed;
@@ -73,7 +73,7 @@ Purely for experimentation
   And here <br>
   And here  <br>
   and here too</p>
-  <p id="pictime"><img src="https://img.favpng.com/8/12/17/yellow-star-icon-sign-symbol-png-favpng-k7wvBgxxf4tJ3rYusfSmASixU.jpg" alt="picture of star">
+  <p id="pictime"><img src="https://img.favpng.com/8/12/17/yellow-star-icon-sign-symbol-png-favpng-k7wvBgxxf4tJ3rYusfSmASixU.jpg" alt="picture of star">My name is Herr Erstrella. My natural color is sunburst yellow, and I run on the warm side. I try not to send out harmful UV-A and UV-B rays, but sometimes, when I am feeling very positive, well, things happen. I hope you'll understand if you find your skin a little darker after a day of picnicing!</p>
   <p id="paratoo">This continues the text <br>
   And here <br>
   And here <br>
