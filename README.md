@@ -8,7 +8,7 @@ Purely for experimentation
   
   <style>
     body {
-      background: rgb(210, 4, 20);
+      background: rgb(210, 200, 90);
       font-family: fantasy, helvetica;
       font-weight: bold;
       font-style: italic;
@@ -43,13 +43,15 @@ Purely for experimentation
       z-index: 4;
       font-style: italic;
       font-weight: bold;
-      font-color: gold;
-      font-size: 30px;
+      font-color: #e9e9e9;
+      font-size: 70px;
   }
  
   </style>
  </head>
   <body>
+  <h2>Seting the Stage for success</h2>
+  <p>Welcome one, welcome all! To the tallest tale Trevor Tomasson ever did tell! Why, there once was a man ten feet tall! Or should I say ten FOOT tall, to be sure we use the most accurate vernacular and represent common speech patterns of the era.</p>
   <ul>
     <li>List item one</li>
     <li>List item two</li>
