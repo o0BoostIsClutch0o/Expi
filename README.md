@@ -24,20 +24,16 @@ Purely for experimentation
        z-index: 3; 
   }
   #picthr {
-      position: absolute;
       width: "500px"
       z-index: 2;
   }
   #paraOne {
-      position: absolute;
       top: 1290px;
   }
   #paratoo {
-      position: absolute;
       top: 1540px;
   }
   #pictime {
-      position: absolute;
        width:"20px";
       z-index: 1;
  }
