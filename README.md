@@ -40,7 +40,8 @@ Purely for experimentation
   }
   #pictime {
       position: absolute;
-       width:"210px";
+       width:"100px";
+      z-index: 4;
  }
   h1 {
       position: fixed;
